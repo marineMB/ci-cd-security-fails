@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "Run tests"
+echo "You've been hacked"
